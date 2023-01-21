@@ -210,6 +210,7 @@
 .author .img_holder{
     max-width: 500px;
     margin:auto;
+    padding:10px;
 }
 .author img{
     width: 100%;
